@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+}
+
+#override-bootstrap-body{
+  background-color: #f0e2d0;
+  color: #654062;
+}
+
+h1{
+  font-size: 1.5rem;
+  padding: 3% auto 1% auto;
+  font-weight: 600;
+}
+
+form{
+  padding-top: 2%;
+}
+
+.form-question{
+  text-align: left;
+  margin: auto;
+  width: 50%;
+}
+
+.wide{
+  width: 100%;
+}
+
+button{
+  width: 50%;
+}
+
+.emph{
+  font-weight: 600;
+}
