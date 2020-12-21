@@ -1,0 +1,32 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+main{
+  background-color: lightgrey;
+}
+
+#img-div{
+  background-color: white;
+  padding-bottom: 2%;
+}
+
+li{
+  margin:auto;
+  padding-bottom: 2%;
+  text-align: left;
+  max-width: 40%;
+}
+
+h3{
+  padding-top: 4%;
+  padding-bottom: 2%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
